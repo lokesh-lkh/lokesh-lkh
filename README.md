@@ -57,7 +57,7 @@ name: Lokesh
 role: DevOps / SRE / Platform Engineer
 focus: AWS infrastructure, Kubernetes, automation
 location: Bengaluru, India
-status: Open to DevOps, SRE, AIops and LLMOps roles
+status: Open to DevOps, SRE, AIOps and LLMOps roles
 currently: Building infrastructure as code and exploring LLMOps
 ```
 
@@ -72,7 +72,8 @@ Kubernetes infrastructure I already work with, and instrumenting them properly.
 
 ## 📈 Currently Learning
 
-- **LLMOps / AIOps** — model serving infrastructure, vector databases, inference observability
+- **LLMOps** — model serving infrastructure, vector databases, inference observability
+- **AIOps** — anomaly detection, incident prediction, metric correlation
 - **GitOps** — ArgoCD, Flux
 - **Observability** — Prometheus, Grafana, OpenTelemetry
 
