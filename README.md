@@ -4,8 +4,6 @@
 
 `Automating infrastructure as code, one pipeline at a time`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lokesh-lkh)](https://github.com/lokesh-lkh)
-[![Followers](https://img.shields.io/github/followers/lokesh-lkh?label=Followers&style=for-the-badge&color=blue)](https://github.com/lokesh-lkh?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-lkh-b65322361/)
 
 ---
@@ -38,7 +36,6 @@ graph LR
 | **Containers** | Docker · Docker Compose · Kubernetes · EKS |
 | **CI/CD** | GitHub Actions · Jenkins |
 | **Languages** | Python · Bash · HCL |
-| **Platform** | Linux · Nginx · MongoDB · MySQL · Redis · RabbitMQ |
 
 ---
 
@@ -60,14 +57,13 @@ name: Lokesh
 role: DevOps / SRE / Platform Engineer
 focus: AWS infrastructure, Kubernetes, automation
 location: Bengaluru, India
-status: Open to DevOps, SRE, and LLMOps roles
+status: Open to DevOps, SRE, AIops and LLMOps roles
 currently: Building infrastructure as code and exploring LLMOps
 ```
 
 I got into DevOps through hands-on work rather than theory — provisioning networks,
 debugging Terraform state, watching pods crash-loop, and automating away the repetitive
-parts. What I enjoy most is the moment a pipeline that failed at 2am starts running clean
-because something I built handles it.
+parts.
 
 **Currently exploring:** LLMOps — deploying model inference services onto the same
 Kubernetes infrastructure I already work with, and instrumenting them properly.
@@ -76,7 +72,7 @@ Kubernetes infrastructure I already work with, and instrumenting them properly.
 
 ## 📈 Currently Learning
 
-- **LLMOps / MLOps** — model serving infrastructure, vector databases, inference observability
+- **LLMOps / AIOps** — model serving infrastructure, vector databases, inference observability
 - **GitOps** — ArgoCD, Flux
 - **Observability** — Prometheus, Grafana, OpenTelemetry
 
