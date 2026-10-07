@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://lokesh-lkh/linkedin banner.png" alt="Banner" width="900"/>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lokesh_lkh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lokesh-lkh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokesh.theofficial@gmail.com) 
