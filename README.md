@@ -51,7 +51,7 @@
   <br/>
   <img alt="Streak" src="https://streak-stats.demolab.com/?user=lokesh-lkh&theme=tokyonight&hide_border=true" width="395"/>
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="495"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="395"/>
 </div>
 
 ## 🚀 Featured Projects
