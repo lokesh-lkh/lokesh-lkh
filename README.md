@@ -2,7 +2,7 @@
   <img src="linkedin banner.png" alt="Banner" width="900"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Lokesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:1e3a5f,100:3b82f6&text=Lokesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=Cloud%20Infrastructure%20%26%20Automation%20%E2%98%81%EF%B8%8F%E2%9A%A1%F0%9F%92%A1;Building%20Resilient%20Systems%20%F0%9F%9B%A0%EF%B8%8F%F0%9F%94%A7;Turning%20Infrastructure%20into%20Code%20%F0%9F%93%9D%F0%9F%92%BB;Shipping%20Reliable%20Systems%20%F0%9F%93%A6%E2%9C%85" alt="Typing SVG" />
