@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%26+Automation+%F0%9F%9A%80;Building+Resilient+Systems+%E2%9A%99%EF%B8%8F;Turning+Infrastructure+into+Code+%F0%9F%93%8D;Shipping+Reliable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%26+Automation+%F0%9F%9A%80;Building+Resilient+Systems+%E2%9A%99%EF%B8%8F;Turning+Infrastructure+into+Code+%F0%9F%93%8D;Shipping+Reliable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials
