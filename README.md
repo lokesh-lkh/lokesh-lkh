@@ -51,11 +51,19 @@
   <br/>
   <img alt="Streak" src="https://streak-stats.demolab.com/?user=lokesh-lkh&theme=tokyonight&hide_border=true" width="395"/>
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="395"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="295"/>
 </div>
 
-## 🚀 Featured Projects
-| Project | Description |
-|---|---|
-| Your project here | Short description of the project and its purpose. |
-| Another project | Brief details about what it does and the tech used. |
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Build Something Reliable Together!
+
+<a href="https://linkedin.com/in/lokesh-lkh">
+  <img src="https://img.shields.io/badge/Open_to_Opportunities-DevOps_%7C_Cloud_Infrastructure-success?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
