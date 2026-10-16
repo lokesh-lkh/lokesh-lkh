@@ -2,18 +2,17 @@
   <img src="linkedin banner.png" alt="Banner" width="900"/>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> Hi, I'm Lokesh
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Lokesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=8000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%26+Automation+%F0%9F%9A%80;Building+Resilient+Systems+%E2%9A%99%EF%B8%8F;Turning+Infrastructure+into+Code+%F0%9F%93%8D;Shipping+Reliable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=800&color=2196F3&center=true&vCenter=true&width=700&lines=Cloud%20Infrastructure%20%26%20Automation%20%E2%98%81%EF%B8%8F%E2%9A%A1%F0%9F%92%A1;Building%20Resilient%20Systems%20%F0%9F%9B%A0%EF%B8%8F%F0%9F%94%A7;Turning%20Infrastructure%20into%20Code%20%F0%9F%93%9D%F0%9F%92%BB;Shipping%20Reliable%20Systems%20%F0%9F%93%A6%E2%9C%85" alt="Typing SVG" />
 </p>
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/lokesh_lkh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lokesh-lkh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lokesh.theofficial@gmail.com)
+<p align="center">
+  <a href="https://discord.gg/lokesh_lkh"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/lokesh-lkh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lokesh.theofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
