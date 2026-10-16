@@ -47,9 +47,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.shion.dev/api?username=lokesh-lkh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lokesh-lkh&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lokesh-lkh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="495"/>
+  <br/>
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=lokesh-lkh&theme=tokyonight&hide_border=true" width="395"/>
+  <br/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="495"/>
 </div>
 
 ## 🚀 Featured Projects
