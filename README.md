@@ -54,8 +54,6 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-lkh&theme=tokyonight&hide_border=true&layout=compact" width="295"/>
 </div>
 
-</div>
-
 ---
 
 <div align="center">
