@@ -14,6 +14,18 @@
   <a href="mailto:lokesh.theofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+## 💡 About Me
+
+```yaml
+name: Lokesh
+role: Aspiring DevOps / Cloud / SRE 
+focus: AWS infrastructure, Kubernetes, automation
+location: Bengaluru, India
+status: Open to DevOps, SRE, AIOps and LLMOps roles
+currently: Building infrastructure as code and exploring LLMOps
+```
+
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
