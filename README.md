@@ -16,7 +16,14 @@
 
 ## 💡 About Me
 
-👤 I'm Lokesh, a DevOps & Cloud engineer based in Bengaluru, India 🇮🇳. 🚀 Passionate about building resilient, automated infrastructure on AWS and Kubernetes. ☁️ Specializing in Infrastructure as Code, container orchestration, and cloud automation. 💼 Currently open to DevOps, SRE, AIOps, and LLMOps roles. 🔧 Actively building infrastructure as code and exploring the world of LLMOps.
+```yaml
+name: Lokesh 👤
+role: Aspiring DevOps / Cloud / SRE 🚀
+focus: AWS infrastructure, Kubernetes, automation ☁️
+location: Bengaluru, India 🇮🇳
+status: Open to DevOps, SRE, AIOps and LLMOps roles 💼
+currently: Building infrastructure as code and exploring LLMOps 🔧
+```
 
 ## 📈 Currently Learning
 
