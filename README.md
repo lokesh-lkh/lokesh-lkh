@@ -25,6 +25,11 @@ status: Open to DevOps, SRE, AIOps and LLMOps roles
 currently: Building infrastructure as code and exploring LLMOps
 ```
 
+## 📈 Currently Learning
+
+- **LLMOps** — model serving infrastructure, vector databases, inference observability
+- **AIOps** — anomaly detection, incident prediction, metric correlation
+- **Observability** — Prometheus, Grafana, OpenTelemetry
 
 ## 🛠️ Tech Arsenal
 
