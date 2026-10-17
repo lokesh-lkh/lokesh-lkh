@@ -56,12 +56,13 @@
 
 ---
 
-<div align="center">
+## 📂 Featured Work
 
-### ✨ Let's Build Something Reliable Together!
+| Repo                                                                               | What It Covers                                                                                                        |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **[terraform-aws-eks](https://github.com/lokesh-lkh/terraform-aws-eks)**           | Full EKS infrastructure — blue-green SPOT node groups, Helm-deployed microservices, ALB ingress with TLS, Gateway API |
+| **[terraform-aws-vpc](https://github.com/lokesh-lkh/terraform-aws-vpc)**           | Production-ready VPC module — multi-AZ, 3-tier subnets, NAT gateway, optional VPC peering                             |
+| **[ansible-roboshop-roles](https://github.com/lokesh-lkh/ansible-roboshop-roles)** | Role-based Ansible — dynamic AWS inventory, SSM-backed secrets, multi-runtime deployment                              |
+| **[roboshop-docker](https://github.com/lokesh-lkh/roboshop-docker)**               | 10-service microservices stack — Node, Java, Python with dependency orchestration                                     |
 
-<a href="https://linkedin.com/in/lokesh-lkh">
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-DevOps_%7C_Cloud_Infrastructure-success?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+---
