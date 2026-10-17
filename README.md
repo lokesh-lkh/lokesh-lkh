@@ -17,12 +17,12 @@
 ## 💡 About Me
 
 ```yaml
-name: Lokesh 👤
-role: Aspiring DevOps / Cloud / SRE 🚀
-focus: AWS infrastructure, Kubernetes, automation ☁️
-location: Bengaluru, India 🇮🇳
-status: Open to DevOps, SRE, AIOps and LLMOps roles 💼
-currently: Building infrastructure as code and exploring LLMOps 🔧
+👤 name: Lokesh
+🚀 role: Aspiring DevOps / Cloud / SRE
+☁️ focus: AWS infrastructure, Kubernetes, automation
+🇮🇳 location: Bengaluru, India
+💼 status: Open to DevOps, SRE, AIOps and LLMOps roles
+🔧 currently: Building infrastructure as code and exploring LLMOps
 ```
 
 ## 📈 Currently Learning
